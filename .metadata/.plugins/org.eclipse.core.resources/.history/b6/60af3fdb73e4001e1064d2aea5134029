@@ -1,0 +1,2 @@
+spring.application.name=kafka-demo
+server.port: 9090
