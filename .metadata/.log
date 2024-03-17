@@ -109,3 +109,15 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-17 20:58:29.407
 !MESSAGE Classpath changed for project: kafka-demo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-17 22:14:59.060
+!MESSAGE Classpath changed for project: spring-boot-kafka
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-17 22:15:00.792
+!MESSAGE Classpath changed for project: spring-boot-kafka
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-17 22:15:00.794
+!MESSAGE Boot project ADDED: spring-boot-kafka
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-17 22:15:19.629
+!MESSAGE Classpath changed for project: spring-boot-kafka
