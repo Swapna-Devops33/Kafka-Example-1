@@ -2397,3 +2397,8 @@
 2024-03-17 22:21:29,336 [Worker-68: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2024-03-17 22:21:29,341 [Worker-68: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-03-17 22:21:29,342 [Worker-68: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka example_github codes\spring-boot-kafka\src\test\resources
+2024-03-17 22:23:56,567 [Worker-79: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 22:23:56,568 [Worker-79: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 22:23:56,570 [Worker-79: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 22:23:56,573 [Worker-79: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 22:23:56,573 [Worker-79: Launching spring-boot-kafka - SpringBootKafkaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka example_github codes\spring-boot-kafka\src\test\resources
