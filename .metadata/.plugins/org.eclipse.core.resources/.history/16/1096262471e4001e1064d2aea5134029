@@ -1,0 +1,5 @@
+package com.example.kafkademo.sender;
+
+public class MessageProducer {
+
+}

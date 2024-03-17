@@ -1,0 +1,6 @@
+spring.application.name=kafka-demo
+server.port: 9090
+
+# producer configuration
+spring.kafka.producer.bootstrap-servers : 9092
+spring.kafka.producer.key-serializer : org.apache.kafka.common.serialization.StringSerializer
